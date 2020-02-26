@@ -1,8 +1,8 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## HipsterGram
+## Ninh's Instagram
 
-An InstaGram clone built using Laravel.
+An InstaGram clone built using Laravel and Vuejs.
 
 <img src="https://i.imgur.com/QuCEgkI.png">
 
