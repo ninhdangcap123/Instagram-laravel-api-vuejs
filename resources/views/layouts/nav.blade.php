@@ -11,9 +11,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            @auth
-                <autologout></autologout>
-            @endauth
+            
 
             <!-- Branding Image -->
             <a class="navbar-brand" href="{{ url('/home') }}">
